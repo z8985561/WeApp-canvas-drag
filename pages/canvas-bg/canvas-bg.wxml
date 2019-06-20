@@ -1,0 +1,2 @@
+<!--pages/canvas-bg/canvas-bg.wxml-->
+<canvas style="width: 750rpx; height: 824rpx;" canvas-id="firstCanvas"></canvas>

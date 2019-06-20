@@ -1,0 +1,19 @@
+.goods-dity{
+  position: relative;
+}
+#canvas-bg{
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.btn{
+    padding: 10rpx 20rpx;
+    float:left;
+    margin:10rpx;
+    border:solid 1px #dfdfdf;
+    border-radius: 10rpx;
+}
+#merge-img{
+  position: fixed;
+  left: 100000px;
+}
